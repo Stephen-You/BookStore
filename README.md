@@ -1,0 +1,2 @@
+# BookStore
+使用Servlet和JDBC等技术实现简单图书商城功能
